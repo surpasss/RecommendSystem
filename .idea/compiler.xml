@@ -7,10 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DataLoader" />
+        <module name="StatisticsRecommender" />
+        <module name="OfflineRecommender" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StatisticsRecommender" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

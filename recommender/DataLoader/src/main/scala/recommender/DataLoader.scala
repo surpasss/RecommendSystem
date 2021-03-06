@@ -1,10 +1,11 @@
-/**
- * @Author ZYJ
- * @Description //TODO
- * @Date 9:13 2021/3/2
- **/
-
 package recommender
+
+/**
+ * @author： ZYJ
+ * @Description: ${description}
+ * @date: 2021/3/2 9:12
+ * @version:
+ */
 
 import java.net.InetAddress
 
