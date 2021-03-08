@@ -118,6 +118,7 @@ object ContentRecommender {
 
     spark.stop()
 
+
   }
 
   //求向量余弦相似度
