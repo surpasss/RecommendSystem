@@ -10,6 +10,7 @@
         <module name="StatisticsRecommender" />
         <module name="OfflineRecommender" />
         <module name="StreamingRecommender" />
+        <module name="ContentRecommender" />
       </profile>
     </annotationProcessing>
   </component>
